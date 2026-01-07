@@ -10,7 +10,9 @@ Stray cattle on Indian highways and rural roads cause frequent accidents, especi
 ---
 
 ## Solution
-This system uses roadside camera or dashcam feeds to detect cattle and vehicles, estimate collision risk using contextual factors, and generate preventive warnings before accidents occur. Significant risk events are logged and monitored through a live dashboard for authorities.
+This system uses **computer vision models** to process roadside camera or dashcam video feeds and detect cattle and vehicles in real time. Using visual cues such as object location, size, and movement, the system estimates collision risk based on contextual factors and generates preventive warnings before accidents occur.
+
+Significant risk events are logged and monitored through a live dashboard for authorities.
 
 ---
 
